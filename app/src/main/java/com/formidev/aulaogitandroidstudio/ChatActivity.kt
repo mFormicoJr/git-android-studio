@@ -22,4 +22,8 @@ class ChatActivity : AppCompatActivity() {
 
     }
 
+    fun sendImage(){
+
+    }
+
 }
